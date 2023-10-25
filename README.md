@@ -23,7 +23,6 @@
 - 📫 How to reach me 
   - Email: tabye320@outlook.com
   - QQ: 1517725261
-  - Work Email: huanyu.ye.biec@bashuschool.cn
 
 <!---
 TabNahida/TabNahida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
