@@ -17,7 +17,8 @@
   - UE
   - C++ Network
   - C++ System programming.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on
+  - OpenSumeru: Basic Library and Tool Organization
   - Substrate library development
   - Server management
 - 📫 How to reach me 
