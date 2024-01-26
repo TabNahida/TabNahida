@@ -22,7 +22,7 @@
   - Substrate library development
   - Server management
 - 📫 How to reach me 
-  - Email: tabye320@outlook.com
+  - Email: tab@tabye.top
   - QQ: 1517725261
 
 <!---
