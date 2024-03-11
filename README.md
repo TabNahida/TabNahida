@@ -12,14 +12,15 @@
   - Les Misérables
   - Hayao Miyazaki
 - 🌱 I’m currently learning 
-  - SFML
-  - WinRT
-  - CSS 
-  - UE
+  - LLVM
+  - Physics and Astronomy
+  - OpenCL and Parallel Computing
+  - SFML, VK and OpenCL
   - C++ Network
   - C++ System programming.
 - 💞️ I’m looking to collaborate on
   - OpenSumeru: Basic Library and Tool Organization
+  - Pin1Yin1: A Pinyin Programming Language
   - Substrate library development
   - Server management
 - 📫 How to reach me 
