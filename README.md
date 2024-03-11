@@ -4,6 +4,7 @@
   - Hotpot and spicy lover
 - 👀 I’m interested in 
   - Ground Floor Development
+  - Aerospace Engineering and Astronomy
   - Fundamental Physics Research
   - Philosophy
   - Nahida and Yoimiya
