@@ -33,7 +33,6 @@ I’m a high school student from **Chongqing**, passionate about **Aerospace Eng
 
 ---
 
-## 📊 GitHub Stats (Optional):
-Display dynamic GitHub stats using third-party badges:
+## 📊 GitHub Stats:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabNahida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - [![TabNahida’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=TabNahida&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
