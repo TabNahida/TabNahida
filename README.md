@@ -5,26 +5,26 @@ I’m a high school student from **Chongqing**, passionate about **Aerospace Eng
 ## 🚀 Skills & Technology Stack:
 
 ### **Languages:**
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![OpenCL](https://img.shields.io/badge/-OpenCL-1A1A1A?logo=opencl&logoColor=white&style=flat)
-- ![LLVM IR](https://img.shields.io/badge/-LLVM_IR-262D40?logo=llvm&logoColor=white&style=flat)
-- ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat)
-- ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![OpenCL](https://img.shields.io/badge/-OpenCL-1A1A1A?logo=opencl&logoColor=white&style=flat)
+![LLVM IR](https://img.shields.io/badge/-LLVM_IR-262D40?logo=llvm&logoColor=white&style=flat)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
 ## **Frameworks:**
-- ![SFML](https://img.shields.io/badge/-SFML-00599C?style=flat)
-- ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162D?logo=vulkan&logoColor=white&style=flat)
-- ![XMake](https://img.shields.io/badge/-XMake-90EE99?style=flat)  
-- ![XRepo](https://img.shields.io/badge/-XRepo-90E090?style=flat)
+![SFML](https://img.shields.io/badge/-SFML-00599C?style=flat)
+![Vulkan](https://img.shields.io/badge/-Vulkan-AC162D?logo=vulkan&logoColor=white&style=flat)
+![XMake](https://img.shields.io/badge/-XMake-90EE99?style=flat)  
+![XRepo](https://img.shields.io/badge/-XRepo-90E090?style=flat)
 
 ### **Specialties:**
-- ![Parallel Computing](https://img.shields.io/badge/-Parallel%20Computing-2E3440?style=flat)
-- ![Network Programming](https://img.shields.io/badge/-Network%20Programming-00ADD8?style=flat)
-- ![LLVM](https://img.shields.io/badge/-LLVM-262D40?style=flat)
-- ![XMake and XRepo](https://img.shields.io/badge/-XMake%20XRepo-85E0A0?style=flat)
-- **Other Interests**: Astronomy Research, Ground Floor Development
+![Parallel Computing](https://img.shields.io/badge/-Parallel%20Computing-2E3440?style=flat)
+![Network Programming](https://img.shields.io/badge/-Network%20Programming-00ADD8?style=flat)
+![LLVM](https://img.shields.io/badge/-LLVM-262D40?style=flat)
+![XMake and XRepo](https://img.shields.io/badge/-XMake%20XRepo-85E0A0?style=flat)
+**Other Interests**: Astronomy Research, Ground Floor Development
 
 ## 🛠 Currently Learning:
 - **LLVM**: Low-Level Virtual Machine for optimizing compilers
