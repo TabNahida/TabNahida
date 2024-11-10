@@ -1,7 +1,3 @@
-Sure! Here's a revamped version of your GitHub Profile README to make it more visually appealing:
-
----
-
 # 👋 Hi there, I'm TabNahida!
 
 Welcome to my GitHub profile!
