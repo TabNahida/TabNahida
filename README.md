@@ -63,6 +63,3 @@ I'm a high school student from **Chongqing**, passionate about **Aerospace Engin
 - **Email**: [tab@tabye.top](mailto:tab@tabye.top)
 - **QQ**: 1517725261
 
----
-
-Feel free to customize it further by adding or removing sections, changing themes, or incorporating more badges and icons!
