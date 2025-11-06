@@ -62,4 +62,6 @@ I'm a high school student from **Chongqing**, passionate about **Aerospace Engin
 
 - **Email**: [tab@tabye.top](mailto:tab@tabye.top)
 - **QQ**: 1517725261
+- **Telegram**: TabNahida
+- **Discord**: tabnahida
 
