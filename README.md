@@ -47,17 +47,14 @@ Here are some of my recently updated repositories:
 
 ## Featured Projects
 
+### ObfuscationOS
+An experimental OS inspired by HarmonyOS, built from scratch with a focus on openness and independent development
+
 ### DeepSeeker
 Lightweight multi-LLM deep research engine for search, summarization, and analysis.
 
 ### BingSift
 A practical parser/tooling project for converting Bing SERP HTML into structured JSON/CSV outputs.
-
-### TString / TCString
-String library work in C++ and C API bindings.
-
-### Telescope-Bulk-Downloader
-Bulk downloader for telescope datasets with safety and usability in mind.
 
 ---
 
