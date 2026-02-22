@@ -1,101 +1,82 @@
-# Hi there, I'm TabNahida 👋
+# Greetings 👋  
+## I'm TabNahida
 
-Welcome to my GitHub profile.
-
-## About Me
-
-I'm **TabNahida**, now an **undergraduate student** focused on:
-
-- **Physics / Astronomy / Exoplanet research**
-- **C++ systems & tooling development**
-- **AI/ML engineering** (LLMs, data pipelines, model experiments)
-- **Creative coding & scientific software**
-
-I enjoy building things that connect **science, engineering, and imagination**.
+🎓 Undergraduate Student  
+🔭 Physics / Astronomy / Exoplanet Research  
+⚙️ C++ Systems & Tooling Developer  
+🤖 AI / LLM Engineering  
+🌌 Scientific + Creative Builder  
 
 ---
 
-## What I'm Working On
+## 🚀 Focus Areas
 
-### 🔭 Research & Science
-- Exoplanet / astronomy-related data workflows
-- ML-assisted scientific analysis
-- Tools for large dataset downloading and processing
-
-### ⚙️ Systems & Tooling
-- Modern C++ libraries and utilities
-- xmake / xrepo ecosystem experiments
-- Performance-focused developer tools
-
-### 🤖 AI / LLM Projects
-- Lightweight research engines and search pipelines
-- Small-model / GPT-style experiments
-- Data parsing and automation tools
+- Exoplanet data workflows & ML-assisted science
+- Modern C++ systems development
+- xmake / xrepo ecosystem tooling
+- Lightweight LLM research engines
+- Scientific automation & parsing pipelines
 
 ---
 
-## Recent Activity
+## 🔬 Featured Projects
 
-Here are some of my recently updated repositories:
+### 🌠 ObfuscationOS
+Experimental OS inspired by HarmonyOS, focused on independent system architecture exploration.
 
-- [**NanoZhGPT**](https://github.com/TabNahida/NanoZhGPT) — A tiny Chinese GPT implementation
-- [**ObfuscationOS**](https://github.com/obfuscationProject/ObfuscationOS/) - An experimental OS inspired by HarmonyOS
-- [**DeepSeeker**](https://github.com/TabNahida/DeepSeeker) — Lightweight Multi-LLM Deep Research Engine
-- [**BingSift**](https://github.com/TabNahida/BingSift) — Turn Bing SERP HTML into clean JSON/CSV
+### 🧠 DeepSeeker
+Lightweight multi-LLM deep research engine for search, summarization and analysis.
 
----
+### 🧬 NanoZhGPT
+Tiny Chinese GPT implementation for educational & experimental purposes.
 
-## Featured Projects
-
-### ObfuscationOS
-An experimental OS inspired by HarmonyOS, built from scratch with a focus on openness and independent development
-
-### DeepSeeker
-Lightweight multi-LLM deep research engine for search, summarization, and analysis.
-
-### BingSift
-A practical parser/tooling project for converting Bing SERP HTML into structured JSON/CSV outputs.
+### 🔎 BingSift
+Convert Bing SERP HTML into clean JSON/CSV structured data.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
-- C / C++
-- Python
-- Lua
-- JavaScript
-- TeX / Jupyter (for research workflows)
+### 💻 Languages
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python)
+![Lua](https://skillicons.dev/icons?i=lua)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-### Tools & Ecosystem
-- xmake / xrepo
-- GitHub Actions
-- CLI tooling
-- Data pipelines & automation
+### 🛠 Tools & Ecosystem
+![xmake](https://img.shields.io/badge/xmake-build-blue)
+![pytorch](https://skillicons.dev/icons?i=pytorch)
+![mint](https://skillicons.dev/icons?i=mint)
+![debian](https://skillicons.dev/icons?i=debian)
+![neovim](https://skillicons.dev/icons?i=neovim)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## Interests
+## 📊 GitHub Stats
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TabNahida&theme=radical)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TabNahida&show_icons=true&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TabNahida&theme=radical)
+
+---
+
+## 🌌 Interests
 
 - Exoplanets & astrophysics
 - Systems programming
-- Compiler / low-level tooling
-- AI engineering
+- Compiler & low-level tooling
+- AI research engineering
 - Scientific computing
 - Creative worldbuilding
 
 ---
 
-## GitHub Stats
+## 📫 Contact
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabNahida&layout=compact&theme=radical)](https://github.com/TabNahida)
-
-[![TabNahida's GitHub stats](https://github-readme-stats.vercel.app/api?username=TabNahida&show_icons=true&theme=radical)](https://github.com/TabNahida)
-
----
-
-## Contact
-
-- Website: https://blog.tab.homes
-- GitHub: https://github.com/TabNahida
-- Email: tab@tabye.top
+🌐 https://blog.tab.homes  
+📧 tab@tabye.top  
+🐙 https://github.com/TabNahida
